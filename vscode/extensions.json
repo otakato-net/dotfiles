@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "foxundermoon.shell-format",
+        "GitHub.copilot",
+        "github.vscode-github-actions",
+        "GitHub.vscode-pull-request-github",
+        "golang.go",
+        "GraphQL.vscode-graphql",
+        "ms-azuretools.vscode-containers",
+        "ms-vscode.remote-repositories",
+        "streetsidesoftware.code-spell-checker",
+        "timonwong.shellcheck"
+    ]
+}
