@@ -7,5 +7,7 @@
     "files.trimTrailingWhitespace": true,
     "search.useIgnoreFiles": false,
     "telemetry.telemetryLevel": "off",
-    "update.mode": "start"
+    "update.mode": "start",
+    // GitHub.copilot-chat
+    "github.copilot.nextEditSuggestions.enabled": true
 }
